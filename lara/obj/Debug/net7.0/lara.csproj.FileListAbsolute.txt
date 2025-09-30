@@ -1,0 +1,15 @@
+C:\Users\Senai.CATEAS21104172\Downloads\lara\lara\bin\Debug\net7.0\lara.exe
+C:\Users\Senai.CATEAS21104172\Downloads\lara\lara\bin\Debug\net7.0\lara.deps.json
+C:\Users\Senai.CATEAS21104172\Downloads\lara\lara\bin\Debug\net7.0\lara.runtimeconfig.json
+C:\Users\Senai.CATEAS21104172\Downloads\lara\lara\bin\Debug\net7.0\lara.dll
+C:\Users\Senai.CATEAS21104172\Downloads\lara\lara\bin\Debug\net7.0\lara.pdb
+C:\Users\Senai.CATEAS21104172\Downloads\lara\lara\obj\Debug\net7.0\lara.csproj.AssemblyReference.cache
+C:\Users\Senai.CATEAS21104172\Downloads\lara\lara\obj\Debug\net7.0\lara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CATEAS21104172\Downloads\lara\lara\obj\Debug\net7.0\lara.AssemblyInfoInputs.cache
+C:\Users\Senai.CATEAS21104172\Downloads\lara\lara\obj\Debug\net7.0\lara.AssemblyInfo.cs
+C:\Users\Senai.CATEAS21104172\Downloads\lara\lara\obj\Debug\net7.0\lara.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CATEAS21104172\Downloads\lara\lara\obj\Debug\net7.0\lara.dll
+C:\Users\Senai.CATEAS21104172\Downloads\lara\lara\obj\Debug\net7.0\refint\lara.dll
+C:\Users\Senai.CATEAS21104172\Downloads\lara\lara\obj\Debug\net7.0\lara.pdb
+C:\Users\Senai.CATEAS21104172\Downloads\lara\lara\obj\Debug\net7.0\lara.genruntimeconfig.cache
+C:\Users\Senai.CATEAS21104172\Downloads\lara\lara\obj\Debug\net7.0\ref\lara.dll

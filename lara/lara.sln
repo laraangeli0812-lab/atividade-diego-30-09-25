@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lara", "lara.csproj", "{9E1C8CEC-C523-4A4F-99F6-1ADC72EB8C5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lara2", "..\lara2\lara2\lara2.csproj", "{D08A307A-0DB4-4407-BDF0-FB33D561FBE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E1C8CEC-C523-4A4F-99F6-1ADC72EB8C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E1C8CEC-C523-4A4F-99F6-1ADC72EB8C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E1C8CEC-C523-4A4F-99F6-1ADC72EB8C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E1C8CEC-C523-4A4F-99F6-1ADC72EB8C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D08A307A-0DB4-4407-BDF0-FB33D561FBE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08A307A-0DB4-4407-BDF0-FB33D561FBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08A307A-0DB4-4407-BDF0-FB33D561FBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08A307A-0DB4-4407-BDF0-FB33D561FBE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43EA9A2C-A191-4E21-A101-9A38D5629D80}
+	EndGlobalSection
+EndGlobal
